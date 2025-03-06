@@ -1,0 +1,23 @@
+{
+    "name": "PrintAnyFormat",
+    "version": "1.0.0",
+    "description": "Print any format",
+    "keywords": [
+        "print",
+        "println"
+        ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BartelKarlijn/PrintAnyFormat.git"
+    },
+    "authors": [
+        {
+            "name": "Karlijn Bartel",
+            "email": "a@b.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "framework": "arduino",
+    "platforms": "*"
+}
