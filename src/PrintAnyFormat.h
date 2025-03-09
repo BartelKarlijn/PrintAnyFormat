@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef PRINTANYFORMAT_H
 #define PRINTANYFORMAT_H
 
