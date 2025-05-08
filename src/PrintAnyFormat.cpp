@@ -1,4 +1,3 @@
-#pragma once
 #include "PrintAnyFormat.h"
 
 // Explicit template instantiation for common types
